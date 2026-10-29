@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- 同 public/icon.svg：64 单位缩到 66dp，居中放进 108dp 画布 -->
+    <group
+        android:scaleX="1.03125"
+        android:scaleY="1.03125"
+        android:translateX="21"
+        android:translateY="21">
+
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="4.2"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M50.6,30.5a19.2,19.2 0 0,1 -19.2,19.2a20.6,20.6 0 0,1 -7.4,-1.4l-10.6,4.1l3.6,-10.1A19.2,19.2 0 1,1 50.6,30.5Z" />
+
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M23.6,27.9a2.6,2.6 0 1,1 0,5.2a2.6,2.6 0 1,1 0,-5.2Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M31.4,27.9a2.6,2.6 0 1,1 0,5.2a2.6,2.6 0 1,1 0,-5.2Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M39.2,27.9a2.6,2.6 0 1,1 0,5.2a2.6,2.6 0 1,1 0,-5.2Z" />
+    </group>
+</vector>
